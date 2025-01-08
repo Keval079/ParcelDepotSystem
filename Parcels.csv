@@ -1,0 +1,30 @@
+X009,9x9x9,1,9,Lost
+X020,1x1x1,1,6,Returned
+X025,7x7x7,1,4,Lost
+X036,8x8x8,4,6,Lost
+X064,8x8x8,4,1,Lost
+X086,7x7x7,4,1,Lost
+X121,3x3x3,7,2,Damaged
+X198,9x9x9,4,8,Unknown
+X213,4x4x4,8,5,Collected
+X214,1x1x1,8,1,Waiting
+X278,5x5x5,3,1,Unknown
+X285,1x1x1,4,3,Waiting
+X309,1x1x1,2,8,In Transit
+X316,9x9x9,5,4,Unknown
+X386,9x9x9,1,6,In Transit
+X475,4x4x4,3,8,Waiting
+X507,5x5x5,3,9,Lost
+X521,6x6x6,4,4,Returned
+X540,9x9x9,2,5,Returned
+X552,4x4x4,5,7,Lost
+X606,8x8x8,8,4,Collected
+X682,3x3x3,6,4,Returned
+X720,4x4x4,2,1,Damaged
+X733,6x6x6,6,5,Lost
+X746,4x4x4,4,9,In Transit
+X780,4x4x4,1,2,In Transit
+X782,5x5x5,3,2,Lost
+X857,2x2x2,6,6,Damaged
+X904,4x4x4,1,4,Lost
+X919,5x5x5,8,7,Returned
